@@ -1,6 +1,6 @@
 import { useCart } from "../context/cartContext";
 import type { Product } from "../types/products";
-import "./ProductCard.css";
+import "./productCard.css";
 
 interface Props {
   product: Product;
